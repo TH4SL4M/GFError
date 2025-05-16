@@ -1,0 +1,2 @@
+export(gf_resid)
+export(gf_squaresid)
